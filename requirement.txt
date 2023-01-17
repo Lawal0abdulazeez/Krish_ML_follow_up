@@ -1,1 +1,6 @@
 Pillow
+sklearn
+matplotlib
+numpy 
+pandas
+seaborn
